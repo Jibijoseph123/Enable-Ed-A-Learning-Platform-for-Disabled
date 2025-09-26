@@ -35,6 +35,12 @@ Enable-Ed/
 
 ---
 
+## 📖 Project Abstract
+
+Enable-Ed is a socially significant project aimed at bridging the gap in digital learning for students with disabilities.
+It provides customizable accessibility features to support learners with hearing, visual, and speech impairments.
+By combining sign language translation, subtitles, text-to-speech, and image descriptions, the platform ensures that every learner, regardless of ability, can access quality education.
+
 ## 📌 Future Scope
 
 Integrate AI-driven adaptive learning for personalized content.
