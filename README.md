@@ -19,7 +19,7 @@ The platform ensures accessibility, inclusivity, and independence in learning.
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python (Django Framework), Natural Language Processing  
 - **Database:** SQLite3  
-- **APIs & Tools:** Hugging Face API, gTTS (Google Text-to-Speech)  
+- **APIs & Tools:** Hugging Face API, gTTS (Google Text-to-Speech),Whisper Model  
 
 ---
 ## 📂 Project Structure
